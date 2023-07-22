@@ -2,6 +2,7 @@
     Arduino with PIR motion sensor
     For complete project details, visit: http://RandomNerdTutorials.com/pirsensor
     Modified by Rui Santos based on PIR sensor by Limor Fried
+    -->This file is a modified version of the source code take from above source
 */
  
 int led = 13;                // the pin that the LED is atteched to
